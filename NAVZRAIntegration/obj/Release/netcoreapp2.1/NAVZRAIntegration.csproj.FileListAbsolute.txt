@@ -1,0 +1,7 @@
+D:\Code\Projects\NAVZRAIntegration\NAVZRAIntegration\obj\Release\netcoreapp2.1\NAVZRAIntegration.csprojAssemblyReference.cache
+D:\Code\Projects\NAVZRAIntegration\NAVZRAIntegration\obj\Release\netcoreapp2.1\NAVZRAIntegration.AssemblyInfoInputs.cache
+D:\Code\Projects\NAVZRAIntegration\NAVZRAIntegration\obj\Release\netcoreapp2.1\NAVZRAIntegration.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\NAVZRAIntegration\NAVZRAIntegration\obj\Release\netcoreapp2.1\NAVZRAIntegration.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\NAVZRAIntegration\NAVZRAIntegration\obj\Release\netcoreapp2.1\NAVZRAIntegration.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\NAVZRAIntegration\NAVZRAIntegration\obj\Release\netcoreapp2.1\NAVZRAIntegration.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\NAVZRAIntegration\NAVZRAIntegration\obj\Release\netcoreapp2.1\NAVZRAIntegration.AssemblyInfo.cs
